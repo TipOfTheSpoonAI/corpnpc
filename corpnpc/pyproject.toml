@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "corpnpc"
 version = "0.1.0"
 authors = [
-  { name="TipOfTheSpoonAI", email="none" },
+  { name="TipOfTheSpoonAI", email="tipofthespoonai@proton.me" },
 ]
 description = "Compliance Oversight & Risk Probe for Neural Parrot Convergence (CORPNPC) - A tool to detect potential embedding leaks in large language models."
 readme = "README.md"
