@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "corpnpc"
+version = "0.1.0"
+authors = [
+  { name="TipOfTheSpoonAI", email="contact@tipofthespoonai.com" },
+]
+description = "Compliance Oversight & Risk Probe for Neural Parrot Convergence (CORPNPC) - A tool to detect potential embedding leaks in large language models."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT License" }
+keywords = [
+    "AI", "ML", "LLM", "embedding leak", "security", "compliance",
+    "FAISS", "sentence-transformers", "NLP", "privacy", "n-gram",
+    "forensics", "cybersecurity", "data governance"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Topic :: Security",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+    "Topic :: Utilities",
+    "Typing :: Typed",
+]
+
+dependencies = [
+    "typer>=0.9.0",
+    "sentence-transformers>=2.2.2",
+    "scikit-learn>=1.0.0",
+    "faiss-cpu>=1.7.4",
+    "numpy>=1.23.0",
+    "matplotlib>=3.5.0",
+    "umap-learn>=0.5.0",
+    "Faker>=18.0.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/TipOfTheSpoonAI/corpnpc"
+"Bug Tracker" = "https://github.com/TipOfTheSpoonAI/corpnpc/issues"
+"Source Code" = "https://github.com/TipOfTheSpoonAI/corpnpc"
+
+[project.scripts]
+corpnpc = "corpnpc.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["."]
+exclude = ["tests*", "examples*", "docs*", "scripts*", "testbed*", "testbed_small*", "testbed_massive*"]

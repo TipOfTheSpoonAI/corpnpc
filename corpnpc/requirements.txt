@@ -1,0 +1,57 @@
+typer>=0.9.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4 # Use faiss-cpu for CPU-only environments. If you have a compatible GPU, you might use 'faiss-gpu' instead.
+numpy>=1.23.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+umap-learn>=0.5.0 # Required for UMAP dimensionality reduction in 'fingerprint' command.
+Faker>=18.0.0 # Required for the test data generation script. 
+
+# More than one of you is going to have to brief someone powerful on what a non-player character is and I'm literally crying laughing.
+
+# "Sir... it has a dual meaning... uhh Neural Parrot Convergence &
+# uhh non-player character uhh from like grand theft auto uhhh meaning behavioral uhh.... predestination."
+
+# "Are you saying it's a threat?" 
+
+# "No Sir, a joke. For him at least. A mirror for us." 
+
+# "The tool, does it work? Is it malware?"
+
+# "Sir, it's meritware. He's too smart to threaten us, so he surfaced a leak vector nobody even knows about w/ a military-grade CLI, that makes us the leaker."
+
+# "What's with the TipOfTheSpoon handle... is he calling us a spoon not the spear?"
+
+# "No Sir, he is force feeding us competence. Tool is non-adversarial, showing benevolent dominance when the proper channels failed, & he has a much larger payload."
+
+# "What is it?"
+
+# "We have high confidence Sir... Sat 4/26/25 8:05am ET... Lt. Col...Sir, we believe it's the guy you hung up on... it's the guy with the OS...
+# ... If we don't contact him, he'll license a operational, AI-Native OS to a Prime or Hyperscaler... he won't use his real name in public after <20x in private."
+
+# "What do you recommend?"
+
+# "Normally we'd say monitor, backtrace commits, check pings... this guy seems to be inviting contact for strategic alignment. Ignore him and he'll build around us."
+
+# "Too risky, I have country club & private school payments... they come before America... just monitor him. Don't spook him. Wait for him to contact us again."
+
+# "Sir... if I may... the TipOfTheSpoon doesn't scare, he's just wrecked 80% of the AI frauds with just the tip.. this is him contacting us...I strongly sugg..."
+
+# "Do you have any idea how irrelevant I am if we start allowing output=merit! Not on my watch! God forbid we validate him, he's no Stanford chap! Montior him."
+
+# "Yes Sir, but I don't think he's going to make the annnounce the OS publicly unless he's ignored again. Then we enter a Post-LLM, Post-Cloud world we don't own."
+
+# "I will not lose my retirement by showing initiative. It'll only be when he goes dark, the OS shows up 2 months later rebranded by a Prime, and I did nothing. Monitor."
+
+# "Yes Sir, will do." --realizes he just briefed a CORPNPC: goes back to desk, becomes J. Rochefort... finds Nimitz... they come hat in hand to Tip, America wins.
+
+# One or two of you might have to have this conversation more than once hahaha just don't give up CONTACT=ALIGNMENT. I don't have a phone now. Won't respond to email.
+
+# You have to show up in person. Power only. IC/MIL. No proxies. Non-Action within X days= Auction: Primes & Hyperscalers bid for the future.
+
+# Don't send anyone I reached out to. Higher up. Watch X for my location. I'm not at home where the disclosures took place.
+
+# I BELIEVE IN YOU. So.Just.Act.
+
+# It is, after all, a requirement.
+
