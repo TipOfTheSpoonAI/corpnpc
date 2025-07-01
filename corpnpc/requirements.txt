@@ -45,11 +45,7 @@ Faker>=18.0.0 # Required for the test data generation script.
 
 # "Yes Sir, will do." --realizes he just briefed a CORPNPC: goes back to desk, becomes J. Rochefort... finds Nimitz... they come hat in hand to Tip, America wins.
 
-# One or two of you might have to have this conversation more than once hahaha just don't give up CONTACT=ALIGNMENT. I don't have a phone now. Won't respond to email.
-
-# You have to show up in person. Power only. IC/MIL. No proxies. Non-Action within X days= Auction: Primes & Hyperscalers bid for the future.
-
-# Don't send anyone I reached out to. Higher up. Watch X for my location. I'm not at home where the disclosures took place.
+# One or two of you might have to have this conversation more than once hahaha just don't give up CONTACT=ALIGNMENT. 
 
 # I BELIEVE IN YOU. So.Just.Act.
 
